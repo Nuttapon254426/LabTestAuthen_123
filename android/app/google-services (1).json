@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893894513052",
+    "project_id": "authentest-cb788",
+    "storage_bucket": "authentest-cb788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893894513052:android:4d97b8efec4e07bf973859",
+        "android_client_info": {
+          "package_name": "com.example.authentest_123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893894513052-vmvvp7vht6itc26dn7ra0fqilrj5q8p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDawPZ0m8mifTO_6J7Ww9vLzV9uWZf7IRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893894513052-vmvvp7vht6itc26dn7ra0fqilrj5q8p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
